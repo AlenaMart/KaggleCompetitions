@@ -1,6 +1,5 @@
 *.ipynb_checkpoints
 catboost_info
-House_Prices
 *.csv
 Submission
 *.png

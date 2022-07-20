@@ -1,0 +1,27 @@
+What to do:
+
+Delete MSSubclass - duplicate HouseStyle and YearBuilt 
+MSZoning - corelates with Neighbourhood?
+LotFrontage - corr with LotArea and 1stFlrSF, less significant
+LotArea - outliers
+Street - almost everything is the same
+Alley - not a lot of alleys. Combine with street to grvl_access
+LotShape, LandContour, LandSlope - to one featutre
+Utilities - maybe useless
+LotConfig
+Neighbourhood
+Condition1 & 2 - to one feature
+BldgType
+HouseStyle
+OverallQual
+YearBuilt
+YearRemodAdd - to feature WasRemodeled?
+RoofStyle - doesn't really matter
+RoofMatl - wood is more expensive
+BsmtFinType1 - Only good quality matters
+BsmtFinType2 & SF2 - doesn't matter
+
+1stFlrSF & 2nd - again about stories
+Baths - sum
+
+Depend on year try to classify houses
